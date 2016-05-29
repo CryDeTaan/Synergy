@@ -1,7 +1,7 @@
 # Synergy
 
-Synergy combines your desktop devices together in to one cohesive experience. It's software for sharing your mouse
-and keyboard between multiple computers on your desk. It works on Windows, Mac OS X and Linux.
+I use Synergy for sharing my mouse and keyboard between multiple computers.
+It works on Windows, Mac OS X and Linux.
 
 Download Synergy from:
 https://symless.com/account/
@@ -18,6 +18,6 @@ https://symless.com/account/
     1. Run wizard by opening synergy from the application menu, or
     2. From terminal run `synergyc <SERVER HOSTNAME/IP>`
   4. Auto start
-  `echo '<SERVER HOSTNAME/IP>' >> /etc/rc.local`
+   need to find good way to do this, at the moment added to zshrc
 
  3. Mac Install
