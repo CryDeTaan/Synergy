@@ -18,5 +18,6 @@ https://symless.com/account/
     1. Run wizard by opening synergy from the application menu, or
     2. From terminal run `synergyc <SERVER HOSTNAME/IP>`
   4. Auto start
+  `echo '<SERVER HOSTNAME/IP>' >> /etc/rc.local`
 
  3. Mac Install
