@@ -18,6 +18,6 @@ https://symless.com/account/
     1. Run wizard by opening synergy from the application menu, or
     2. From terminal run `synergyc <SERVER HOSTNAME/IP>`
   4. Auto start
-   need to find good way to do this, at the moment added to zshrc
+   need to find good way to do this, at the moment added allias to zshrc
 
  3. Mac Install
